@@ -1,2 +1,2 @@
 # HangedMan
-HangMJan game in python
+HangMan game in python
